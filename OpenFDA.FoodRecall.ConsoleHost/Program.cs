@@ -38,7 +38,9 @@ try
 }
 catch(Exception ex)
 {
+    Console.WriteLine("An error occured during program runtime:");
     Console.WriteLine(ex);
+    throw;
 }
 
 Console.ReadLine();
