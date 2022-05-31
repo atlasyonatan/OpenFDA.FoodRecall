@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFDA.FoodRecall.ConsoleHost", "OpenFDA.FoodRecall.ConsoleHost\OpenFDA.FoodRecall.ConsoleHost.csproj", "{4677C755-915F-47EE-86DA-C8412B46FF0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFDA.FoodRecall.Test", "OpenFDA.FoodRecall.Test\OpenFDA.FoodRecall.Test.csproj", "{5B3C3E3D-911D-4291-9E31-E97417159695}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4677C755-915F-47EE-86DA-C8412B46FF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4677C755-915F-47EE-86DA-C8412B46FF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4677C755-915F-47EE-86DA-C8412B46FF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3C3E3D-911D-4291-9E31-E97417159695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3C3E3D-911D-4291-9E31-E97417159695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3C3E3D-911D-4291-9E31-E97417159695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3C3E3D-911D-4291-9E31-E97417159695}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
