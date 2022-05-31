@@ -7,6 +7,7 @@ namespace OpenFDA.FoodRecall.ConsoleHost
     {
         public const string Resource = "food/enforcement.json";
         public const string DateFormat = "yyyyMMdd";
+
         /// <summary>
         /// Retrieves a timeseries of days and the recall count of that day, between <paramref name="start"/> and <paramref name="end"/>.
         /// <para/>
